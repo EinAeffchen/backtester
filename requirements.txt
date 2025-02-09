@@ -1,0 +1,6 @@
+pandas
+yfinance==0.2.52
+discord==2.3.2
+ta==0.11.0
+matplotlib==3.10.0
+plotly==6.0.0
